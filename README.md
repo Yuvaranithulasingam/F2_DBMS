@@ -37,9 +37,15 @@ select * from studenttable;
 
 #### 3) Drop the student table
 ##### SQL QUERY:
+```
+DROP TABLE studenttable;
+```
 ##### OUTPUT:
+![Screenshot 2023-09-14 192248](https://github.com/Yuvaranithulasingam/F2_DBMS/assets/121418522/2f804b25-13c2-4c68-844f-80c41d02a1b8)
+
 #### 4) Delete the student table using truncate keyword
 ##### SQL QUERY:
+
 ##### OUTPUT:
 #### 5) Rename the student table to mystudent
 ##### SQL QUERY:
